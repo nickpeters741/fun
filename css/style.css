@@ -86,7 +86,7 @@ pre {
 .showcase {
   height: 400px;
   background-color: var(--primary-color);
-  color:  #0000;
+  color:  #fff;
   position: relative;
 }
 
