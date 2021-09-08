@@ -13,4 +13,4 @@ since its an imaginative bussiness i used auto fill lorem ipsum to fill in some 
 ### you can view the site by clicking on this [link](https://infinite-cfe.netlify.app)
 
 Below is a screenshot of what you expect to see
-![infinite site](https://photos.google.com/photo/AF1QipN-Q6_XF4Sc3IyJpfBmpZFYy25HZsDuxA8KwxPX)
+![infinite site](https://photos.app.goo.gl/kcmQ8X2gJ4Hxs3wW6)
