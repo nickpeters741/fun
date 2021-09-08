@@ -10,7 +10,7 @@ This dummy site was created for the CFE challange to build the an imaginative si
 
 since its an imaginative bussiness i used auto fill lorem ipsum to fill in some content
 
-### you can view the site by clicking on this [link](https://infinite-cfe.netlify.app)
+### you can view the site by clicking on this [link](https://infinite-cfe.netlify.app) or copy this link and paste on your browser.
+    
+# https://infinite-cfe.netlify.app/
 
-Below is a screenshot of what you expect to see
-![infinite site](https://photos.app.goo.gl/kcmQ8X2gJ4Hxs3wW6)
